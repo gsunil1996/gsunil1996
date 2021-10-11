@@ -1,14 +1,14 @@
-<h1 align="center">Hello 👋, I'm Harish</h1>
+<h1 align="center">Hello 👋, I'm Sunil Kumar Gajula</h1>
 <h3 align="center">Learning Full Stack Web developer at Masai School</h3>
 
 
 - 🌱 I’m currently learning *MERN Stack and DSA At Masai School*
 
-- 👨‍💻 All of my projects are available at [https://github.com/gsunil1996](https://github.com/sachanarpit)
+- 👨‍💻 All of my projects are available at [https://github.com/gsunil1996](https://github.com/gsunil1996)
 
 - 💬 Ask me about * Javascript , Data structure , Algorithm , Node Js , Express , React and MangoDB.*
 
-- 📫 How to reach me *Harish.1994.19@gmail.com*
+- 📫 How to reach me *gajulasunilkumar123@gmail.com*
 
 
 <hr />
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/harish-andela-660446216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWOFBuMLtSVumJqPJsTxeBw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachanarpit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sunil-kumar-gajula-438048203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachanarpit" height="30" width="40" /></a>
 
 </p>
 <hr />
