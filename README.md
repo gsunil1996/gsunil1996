@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gsunil1996](https://github.com/gsunil1996)
 
-- 💬 Ask me about * Javascript , Data structure , Algorithm , Node Js , Express , React and MangoDB.*
+- 💬 Ask me about * Javascript , Data structure , Algorithm , Node Js , Express , React and MongoDB.*
 
 - 📫 How to reach me *gajulasunilkumar123@gmail.com*
 
