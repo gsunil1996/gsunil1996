@@ -12,8 +12,7 @@
 <h2 align="center" border="0">My Tech Stack</h2>
 
 <br>
-
-<table align="center">
+<table align="center" >
 
 <tbody>
 
@@ -57,33 +56,33 @@
 
 <td width="25%" align="center">
 
-<span>NodeJS</span><br><br>
+<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>Express</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 
 </td>
 
 <td width="25%" align="center">
 
-<span>Mongodb</span><br><br>
+<span>Typescript</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
 
 </td>
 
 <td width="25%" align="center">
 
-<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
+<span>Next.js</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+<img height="64px" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Material UI</span><br><br>
+
+<img height="64px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png">
 
 </td>
 
@@ -93,17 +92,17 @@
 
 <td width="25%" align="center">
 
-<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
+<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
 
 </td>
 
 <td width="25%" align="center">
 
-<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
+<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
 </td>
 
@@ -117,9 +116,45 @@
 
 <td width="25%" align="center">
 
-<span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
+<span>NodeJS</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>Express.js</span><br><br>
+
+<img height="64px" src="https://geekflare.com/wp-content/uploads/2023/01/expressjs.png">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Mongodb</span><br><br>
+
+<img height="64px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*U85yP3O7enCB5MtD.png">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>MySQL</span><br><br>
+
+<img height="64px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>PostgreSQL</span><br><br>
+
+<img height="64px" src="https://i0.wp.com/weblion303.net/wp-content/uploads/2019/11/2019-11-28_16h55_26.png?fit=378%2C276&ssl=1">
 
 </td>
 
