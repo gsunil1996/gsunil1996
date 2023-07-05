@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gsunil1996](https://github.com/gsunil1996)
 
-- 💬 Ask me about * Javascript, React, Redux, Data structures and algorithms (DSA), Node Js , Express and MongoDB.*
-
 - 📫 How to reach me *gajulasunilkumar123@gmail.com*
 
 <hr />
