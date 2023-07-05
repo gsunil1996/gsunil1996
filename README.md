@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sunil Kumar Gajula</h1>
-<h3 align="center">Full Stack Web developer (MERN)</h3>
+<h3 align="center">Full Stack Web developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/gsunil1996](https://github.com/gsunil1996)
 
