@@ -160,6 +160,62 @@
 
 </tr>
 
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>Socket.io</span><br><br>
+
+<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Redis</span><br><br>
+
+<img height="64px" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>GraphQL</span><br><br>
+
+<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Prisma</span><br><br>
+
+<img height="64px" src="https://prismalens.vercel.app/header/logo-dark.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>NestJS</span><br><br>
+
+<img height="64px" src="https://docs.nestjs.com/assets/logo-small.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Fastify</span><br><br>
+
+<img height="64px" src="https://fastify.dev/img/logos/fastify-white.png">
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
