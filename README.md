@@ -208,7 +208,7 @@
 
 <span>Fastify</span><br><br>
 
-<img height="64px" src="https://fastify.dev/img/logos/fastify-white.png">
+<img height="64px" src="https://fastify.dev/img/logos/fastify-white.svg">
 
 </td>
 
